@@ -1,1 +1,1 @@
-# copay
+# ccpay
